@@ -50,7 +50,8 @@ Key Activities
    - Allow the user to see the outcome of their input operation.
 
  Technologies Used
-  Python:The primary programming language for simple calculator.
+ 
+    Python:The primary programming language for simple calculator.
      
 
 
