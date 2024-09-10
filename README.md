@@ -25,15 +25,14 @@ Key Activities
   The key activities of a simple calculator program in Python involve implementing the steps necessary to perform basic arithmetic operations. These activities can be broken down into the following:
 
 1. User Input
-2. :
    - Accept input from the user for the numbers and the operation they want to perform (addition, subtraction, multiplication, division, etc.).
    - Validate user inputs to ensure they are valid numbers and operations.
 
-3. Operation Selection:
+2. Operation Selection:
    - Present the user with options for available operations (e.g., +, -, *, /).
    - Capture the user's choice of operation and validate it to ensure it is among the available options.
 
-4. Perform Calculations:
+3. Perform Calculations:
    - Based on the user's selection, perform the corresponding arithmetic operation on the input values.
    - Implement the logic for each operation, such as:
      - Addition (+)
@@ -42,14 +41,14 @@ Key Activities
      - Division (/)
    - Handle any edge cases, such as division by zero.
 
-5. Error Handling:
+4. Error Handling:
    - Manage potential errors gracefully, such as:
      - Division by zero.
      - Invalid operation selection.
      - Non-numeric inputs.
    - Provide clear error messages to guide the user.
 
-6. Display Results:
+5. Display Results:
    - Output the result of the calculation back to the user in a readable format.
    - Allow the user to see the outcome of their input operation.
 
